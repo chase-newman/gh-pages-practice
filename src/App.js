@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Making Changes to Check that GH Pages Updates!
+          Deploying from the master branch!
         </a>
       </header>
     </div>
