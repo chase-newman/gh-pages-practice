@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Making Changes to Check that GH Pages Updates!
         </a>
       </header>
     </div>
